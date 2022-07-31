@@ -1,7 +1,9 @@
 # Sequelize-sql
 
 ## Description 
-User Story
+This is the challenge for Module 13 of the bootcamp. For this challenge, we were instructed to create the backend to an ecommerce website. We had to make the routes for all of the products as well as the models. Once finished, we seeded the database and showed the working routes on Insomnia. Video Walkthrough Below! 
+
+## User Story 
 AS A manager at an internet retail company
 I WANT a back end for my e-commerce website that uses the latest technologies
 SO THAT my company can compete with other e-commerce companies
